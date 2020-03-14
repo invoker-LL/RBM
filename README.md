@@ -1,5 +1,5 @@
 # Restricted Boltzmann Machine
-RBM in Pytorch
+[RBM](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/dbn2.pdf) in Pytorch
 
 Based on [Hinton's MATLAB RBM script](www.sciencemag.org/cgi/content/full/313/5786/504/DC1).
 
