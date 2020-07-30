@@ -9,3 +9,5 @@ hidden, binary, stochastic feature detectors using symmetrically
 weighted connections. 
 
 Learning is done with 1-step Contrastive Divergence.
+
+to be done
