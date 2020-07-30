@@ -6,6 +6,6 @@ Based on [Hinton's MATLAB RBM script](www.sciencemag.org/cgi/content/full/313/57
 This program trains Restricted Boltzmann Machine in which
 visible, binary, stochastic pixels are connected to
 hidden, binary, stochastic feature detectors using symmetrically
-weighted connections. Learning is done with 1-step Contrastive Divergence. 
+weighted connections. 
 
 Learning is done with 1-step Contrastive Divergence.
